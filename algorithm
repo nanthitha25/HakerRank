@@ -1,0 +1,12 @@
+step 1 = Create an empty list called useroperation_list and userdata_list
+step 2 = Get the no of operations to be performed from the user and store it in useroperation_list
+step 3 = make  loop for iterating through the useroperation_list.
+step 4 = using conditional statement write the condition for the mentioned builtin function
+step 5 = if the user wants to insert a value write a condition in such a way it's inserted to userdata_list
+step 6 = If the user wants to append an value write a condition in such a way it's appended to userdata_list
+step 7 = if the user wants to remove an value write a condition in such a way it's removed from the  userdata_list
+step 8 = if the user wants to reverse an value write a condition in such a way it reverse  the  userdata_list
+step 9 = if the user wants to sort an value write a condition in such a way it sort  the  userdata_list
+step 10 = if the user wants to print an value write a condition in such a way it print  the  userdata_list
+step 11 = if the user wants to pop an value write a condition in such a way it pops  the  userdata_list
+step 12 = print the updated list
